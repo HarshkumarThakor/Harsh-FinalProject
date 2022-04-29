@@ -1,6 +1,6 @@
 Lets start with the project overview worklog
 
-    2022-03-14 (2 hours)
+    2022-03-14 (2 hrs)
 ->  Got the script templete
     Uploaded on git repo
     Set up with visual studio code and Git desktop
@@ -17,9 +17,11 @@ Lets start with the project overview worklog
     2022-04-24 (40 mins)
 ->  Set desktop image and i made an error with was small and took me 20 mins to figure out.(did a spelling mistake than reviewed the code )
 
-    2022-04-29 ()
+    2022-04-29 (Approx 4 hrs 30 mins)
 ->  The day when i created database and solved the errors and learn new code from google.
     The biggest error i was facing was that my downloading image was slow and output was showing 1st.So the data where not syncing.
     I used async function which means it will always return a promise. (DOWNLOAD APOD IMAGE - kept async so it would always wait for image to download than show the output)
-    Learn how to define async and end it with main as asyncio.run(main())
-    Got error in database where i used hexdigest() fpr SHA256 to return it as string and fetch as hexadecimal digits.
+    Learn how to define async and end it with main as asyncio.run(main()) https://realpython.com/async-io-python/
+    Got error in database where i used hexdigest() fpr SHA256 to return it as string and fetch as hexadecimal digits. https://www.geeksforgeeks.org/python-string-hexdigits/
+
+I used cmd to run the script.
