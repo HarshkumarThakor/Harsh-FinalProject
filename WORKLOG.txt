@@ -1,0 +1,25 @@
+Lets start with the project overview worklog
+
+    2022-03-14 (2 hours)
+->  Got the script templete
+    Uploaded on git repo
+    Set up with visual studio code and Git desktop
+
+    2022-03-20 (45 mins)
+->  Created Database file 
+
+    2022-04-21 (Approx 2 hours and 30 mins)
+->  Function to fetch information from NASA api.
+    As we done pokeapi lab i get to know about many things.
+    Learn to get information.
+    Download image from NASAapi and save it.
+
+    2022-04-24 (40 mins)
+->  Set desktop image and i made an error with was small and took me 20 mins to figure out.(did a spelling mistake than reviewed the code )
+
+    2022-04-29 ()
+->  The day when i created database and solved the errors and learn new code from google.
+    The biggest error i was facing was that my downloading image was slow and output was showing 1st.So the data where not syncing.
+    I used async function which means it will always return a promise. (DOWNLOAD APOD IMAGE - kept async so it would always wait for image to download than show the output)
+    Learn how to define async and end it with main as asyncio.run(main())
+    Got error in database where i used hexdigest() fpr SHA256 to return it as string and fetch as hexadecimal digits.
